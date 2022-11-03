@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
+.primary-card {
+    box-sizing: border-box;
+    padding: 0.5rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    width: 70vw;
+    background-color: none;
+    color:#233345;
+    text-shadow:  1px 1px 0 #808da9;
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Baloo 2', cursive;
+}
+
+.art-title:hover {
+    font-size: 1.7rem;
+    cursor: pointer;
+    text-shadow: 2px 2px 0 #808da9;
+}
+
+.primary-img {
+    width: 60vw;
+    box-shadow: 0 4px 15px 0 rgba(16, 40, 48, 0.75);
+    border-radius: 50px;
+}
+
+.primary-img:hover {
+    width: 62vw;
+    border-radius: 45px;
+    box-shadow: 0 4px 15px 0 #808da9;
+}
