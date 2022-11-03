@@ -2,12 +2,7 @@ import './IndividualArticle.css';
 import React, { useEffect } from 'react';
 const dayjs = require('dayjs');
 
-const IndividualArticle = ({
-    title,
-    section,
-    getArticlesBySection,
-    sectionArticles,
-}) => {
+const IndividualArticle = ({ title, section, getArticlesBySection, sectionArticles }) => {
     const foundArticle = sectionArticles.find((art) => art.title === title);
 
     useEffect(() => {

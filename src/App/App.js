@@ -51,8 +51,7 @@ const App = () => {
             <Home articles={articles} />
           </Route>
           <Route
-            exact
-            path='/:section'
+            exact path='/:section'
             render={({ match }) => {
               return (
                 <PrimaryContainer
@@ -64,8 +63,7 @@ const App = () => {
             }}
           />
           <Route
-            exact
-            path='/:section/:title'
+            exact path='/:section/:title'
             render={({ match }) => {
               return (
                 <IndividualArticle
