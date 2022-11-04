@@ -19,7 +19,7 @@
 
 ## Deployed Link
 
-- 
+- [Visit the site!](https://daily-dispatch.vercel.app/)
 
 ## Illustrations
 
