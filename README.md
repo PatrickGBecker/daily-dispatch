@@ -20,9 +20,16 @@
 ## Deployed Link
 
 - 
+
 ## Illustrations
 
+https://user-images.githubusercontent.com/96083023/199987396-3a6d219e-d073-4849-acb8-fa29f5fd35c2.mp4
+
 ## Application Wireframes
+
+![Screen Shot 2022-11-03 at 1 22 59 PM](https://user-images.githubusercontent.com/96083023/199986948-1461d37a-9e4f-4c22-a563-d37fa551a61e.png)
+![Screen Shot 2022-11-03 at 1 23 11 PM](https://user-images.githubusercontent.com/96083023/199987152-9753170b-df02-429d-9bc8-ac4059f68249.png)
+
 ## Technology Stack
 
 - CSS3 
