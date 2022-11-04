@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/96083023/199987396-3a6d219e-d073-4849-
 - As a user, I should be able to look at individual article details when I click on the article title. 
 ## API Set-Up
 
-[NYTimes API Set-Up Instructions](https://gist.github.com/PatrickGBecker/68228e072bd4d0e950c372db7ceaa1f3.js)
+[NYTimes API Set-Up Instructions](https://gist.github.com/PatrickGBecker/68228e072bd4d0e950c372db7ceaa1f3)
 
 ## Application Set-Up
 
