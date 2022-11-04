@@ -7,7 +7,7 @@
 - [Application Wireframes](#application-wireframes)
 - [Technology Stack](#technology-stack)
 - [User Stories](#user-stories)
-- [Context and Features](#context-and-features)
+- [Future Features](#context-and-features)
 - [Application Set-Up](#application-set-up)
 - [Contributor LinkedIn’s](#contributor-linkedins)
 - [Contributor GitHubs’s](#contributor-githubss)
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/96083023/199987396-3a6d219e-d073-4849-
 
 ## Technology Stack
 
-- CSS3 
+- CSS
 - DayJS
 - React.js
 - React Hooks
@@ -46,6 +46,15 @@ https://user-images.githubusercontent.com/96083023/199987396-3a6d219e-d073-4849-
 - As a user I should be able to find articles based on the genre that I’m most interested in (arts, business, fashion, food, etc.).
 
 - As a user, I should be able to look at individual article details when I click on the article title. 
+
+## Future Features
+
+- Add end-to-end testing of all happy/sad paths.
+
+- Make drop-down menu dynamic.
+
+- Add a default NYTimes image when the server fails to render correct response.
+
 ## API Set-Up
 
 [NYTimes API Set-Up Instructions](https://gist.github.com/PatrickGBecker/68228e072bd4d0e950c372db7ceaa1f3)
